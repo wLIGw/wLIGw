@@ -87,10 +87,11 @@ I’m always open to new challenges, new projects, and opportunities to collabor
 
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=wLIGw&theme=dark&hide_border=false"  
-    alt="streak graph"
+    src="https://github-readme-stats.vercel.app/api?username=wLIGw&show_icons=true&count_private=true&theme=dark"
+    height="170"
   />
 </div>
+
 
 
 
