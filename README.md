@@ -87,20 +87,6 @@ I’m always open to new challenges, new projects, and opportunities to collabor
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=wLIGw&show_icons=true&count_private=true&theme=dark"
-    height="170"
-  />
-</div>
-
-
-
-
-
-
-###
-
-<div align="center">
-  <img 
     src="https://github-readme-stats.vercel.app/api?username=wLIGw&show_icons=true&count_private=true&theme=catppuccin_mocha&hide_border=false" 
     height="150" 
     alt="stats graph" 
