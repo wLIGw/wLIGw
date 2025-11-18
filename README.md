@@ -85,7 +85,7 @@ I’m always open to new challenges, new projects, and opportunities to collabor
 
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=wLIGw&theme=catppuccin-mocha&hide_border=false&border_radius=8" 
+    src="https://streak-stats.demolab.com?user=wLIGw&theme=tokyonight&hide_border=false&border_radius=8" 
     height="200" 
     alt="streak graph" 
   />
