@@ -78,6 +78,17 @@ I’m always open to new challenges, new projects, and opportunities to collabor
 </div>
 
 ###
+<h3 align="left">🛠 Tools:</h3>
+###
+<div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vs code logo"/>
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux logo" />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
+  <img width="12" />
+</div>
+###
 
 <h3 align="left">🔥   My statistics :</h3>
 
