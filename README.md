@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi👋 my name is Martin</h1>
+<h1 align="center">Hi👋 my name is Martin!</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wLIGw.wLIGw&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wLIGw.wLIGw" alt="visitor badge"/>
 </div>
 
 ###
@@ -49,6 +49,21 @@ I’m always open to new challenges, new projects, and opportunities to collabor
 
 ###
 
+<div align="center">
+  <a href="https://wLIGw.github.io/My-Portfolio/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/wLIGw/My-Portfolio/main/public/preview.jpg" 
+      alt="My Portfolio" 
+      width="600"
+      style="border-radius: 10px;"
+    />
+  </a>
+  <br />
+  <a href="https://wLIGw.github.io/My-Portfolio/" target="_blank">
+    🔗 <b>Open My Portfolio</b>
+  </a>
+</div>
+###
 
 <h3 align="left">🛠 Technologies:</h3>
 
@@ -78,8 +93,11 @@ I’m always open to new challenges, new projects, and opportunities to collabor
 </div>
 
 ###
+
 <h3 align="left">🛠 Tools:</h3>
+
 ###
+
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vs code logo"/>
    <img width="12" />
@@ -88,6 +106,7 @@ I’m always open to new challenges, new projects, and opportunities to collabor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
   <img width="12" />
 </div>
+
 ###
 
 <h3 align="left">🔥   My statistics :</h3>
