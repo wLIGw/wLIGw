@@ -49,20 +49,23 @@ I’m always open to new challenges, new projects, and opportunities to collabor
 
 ###
 
+<h3 align="left">👉 Click to open my portfolio</h3>
+
+###
+
 <div align="center">
+
+  <!-- РАМКА БЕЗ style="" (GitHub-friendly) -->
   <a href="https://wLIGw.github.io/My-Portfolio/" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/wLIGw/My-Portfolio/main/public/preview.jpg" 
-      alt="My Portfolio" 
+      src="https://raw.githubusercontent.com/wLIGw/wLIGw/main/assets/2025-11-17-225352_hyprshot.png"
+      alt="My Portfolio"
       width="600"
-      style="border-radius: 10px;"
     />
   </a>
-  <br />
-  <a href="https://wLIGw.github.io/My-Portfolio/" target="_blank">
-    🔗 <b>Open My Portfolio</b>
-  </a>
 </div>
+
+
 ###
 
 <h3 align="left">🛠 Technologies:</h3>
