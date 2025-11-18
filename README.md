@@ -79,19 +79,33 @@ I’m always open to new challenges, new projects, and opportunities to collabor
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥   My statistics :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img 
+    src="https://streak-stats.demolab.com?user=wLIGw&theme=catppuccin-mocha&hide_border=false&border_radius=8" 
+    height="200" 
+    alt="streak graph" 
+  />
 </div>
+
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=wLIGw&show_icons=true&count_private=true&theme=catppuccin_mocha&hide_border=false" 
+    height="170" 
+    alt="stats graph" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=wLIGw&layout=compact&langs_count=6&card_width=320&theme=catppuccin_mocha&hide_border=false" 
+    height="170" 
+    alt="languages graph" 
+  />
 </div>
+
 
 ###
