@@ -87,16 +87,15 @@ I’m always open to new challenges, new projects, and opportunities to collabor
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=wLIGw&show_icons=true&count_private=true&theme=catppuccin_mocha&hide_border=false" 
-    height="150" 
-    alt="stats graph" 
+    src="https://github-readme-stats.vercel.app/api?username=wLIGw&show_icons=true&count_private=true&theme=dark&hide_border=false&layout=compact" 
+    height="150"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=wLIGw&layout=compact&langs_count=6&card_width=320&theme=catppuccin_mocha&hide_border=false" 
-    height="150" 
-    alt="languages graph" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=wLIGw&layout=compact&langs_count=6&theme=dark&hide_border=false" 
+    height="150"
   />
 </div>
+
 
 
 ###
